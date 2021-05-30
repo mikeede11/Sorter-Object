@@ -150,7 +150,7 @@ public class Sorter {
         return leftIndex;//?
     }
     /* Test the Recursive MergeSort Correctness and Performance */
-    /*
+    /* ACCESS?
     public void heapSort(Comparable[] arr) {
         int n = arr.length;
         boolean secondChildGreater = false;
